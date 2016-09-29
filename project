@@ -1,0 +1,10 @@
+public class Project {
+
+    Public static void main(String[] args) {
+    
+      Int x = 16, y = 25, z = 246;
+      system.out.println("X+Y+Z = " x + y + z);
+      
+     }
+     
+    }
